@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - 3-column preview card component solution
 
-You can use the [editor on GitHub](https://github.com/blaqq2/Preview-Card/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
 
-### Markdown
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-```markdown
-Syntax highlighted code block
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-# Header 1
-## Header 2
-### Header 3
+## Overview
 
-- Bulleted
-- List
+### The challenge
 
-1. Numbered
-2. List
+Users should be able to:
 
-**Bold** and _Italic_ and `Code` text
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-[Link](url) and ![Image](src)
+### Screenshot
+
+url (./screenshot.jpeg)
+
+
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+
+
+### What I learned
+
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+
+To see how you can add code snippets, see below:
+
+```html
+<h1>Inline style</h1>
+```
+```css
+@media (max-width: 500px) {
+
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Continued development
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blaqq2/Preview-Card/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I will continue to gain experience in CSS and try gain knowledge of one of its libraries.
+I would also love to advance my knowledge in javascript and learn reactjs
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+## Author
+
+- Website - [Abubakar](https://github.com/blaqq2/Mycode)
+- Frontend Mentor - [@blaqq2](https://www.frontendmentor.io/profile/blaqq2)
+- Twitter - [@Wildthecard](https://www.twitter.com/Wildthecard)
+
+
+## Acknowledgments
+
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+
